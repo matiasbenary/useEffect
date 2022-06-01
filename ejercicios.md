@@ -17,7 +17,7 @@ Extras:
 
 - Crear un formulario de login con email y clave
 - Se debe verificar que no esten vacio y que la clave sea mayor a 8
-- Verificar cuando se toca de envia se deber aparce un mensaje de cargando por 5 segundo y luego dar la bienvenida en caso de que sea correcto
+- Verificar cuando se toca de envia se deber aparce un alert por 5 min
 - En caso de ser falso debe aparecer el boton de logearse deshabilitado
 
 # Reloj

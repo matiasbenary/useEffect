@@ -1,0 +1,5 @@
+https://es.reactjs.org/docs/faq-internals.html
+https://es.reactjs.org/docs/hooks-reference.html#useeffect
+
+https://dev.to/colocodes/6-use-cases-of-the-useeffect-reactjs-hook-282o
+https://www.codedaily.io/tutorials/Create-a-useMousePosition-Hook-with-useEffect-and-useState-in-React
